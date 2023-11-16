@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://i.redd.it/sq1m31fmqa091.png);
+    background-size: cover;
+    text-align: center;
+    margin-top: 10%;
+    color: blueviolet;
+    font-size: 30px;
+    text-shadow: 2px 2px #3c0550;
+}
+h1{
+    color: rgb(10, 55, 235);
+    text-shadow: 4px;
+}
+button{
+    background-color: rgb(19, 40, 228);
+    width: 250px;
+    height: 30px;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
